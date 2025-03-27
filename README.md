@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Matheus Lopes, tenho 26 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIP. Sou apaixonado por tecnologia e desde criança tenho contato com a área.
+Me chamo Matheus Lopes, tenho 26 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIP e sou apaixonado por tecnologia desde criança. Desde cedo, sempre tive curiosidade sobre como as coisas funcionam por trás das telas, o que me levou a explorar diversas áreas da tecnologia, desde desenvolvimento de software até segurança digital. Hoje, busco aprimorar minhas habilidades, com foco na criação de soluções inovadoras. Estou sempre em busca de novos desafios e oportunidades para aprender e contribuir com projetos.
 
 <p align="left">
 <a href="https://www.linkedin.com/in/matheus-lopes-alves-dos-santos/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"
